@@ -1,11 +1,11 @@
 # Site settings
 author: Lindsay Parr
-title: 
+title: Day-to-Day Data
 header-img: img/home-bg.png
 email: lwcislo2@gmail.com
 copyright_name: Lindsay Parr
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An in-depth look at the data processes powering your everyday.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lparr
